@@ -1,6 +1,6 @@
 ﻿using AutoMapper;
 
-namespace Fred.API.Services.Abstractions
+namespace Fred.API.Repository.Abstractions
 {
     public class AutoMapperProfiles : Profile
     {
